@@ -10,7 +10,7 @@ DOI: https://doi.org/XXXXX
 
 If you need futher information please contact [dxramirez@usfq.edu.ec](mailto:dxramirez@usfq.edu.ec)
 
-This repository contains the amplicon sequencing raw reads and the count tables obtained after the processing of the amplicon sequence data.
+This repository contains the count tables obtained after the processing of the amplicon sequence data.
 
 ### Count_tables
 
